@@ -1,4 +1,4 @@
-# Rails Tutorial公式の勧めに従いAWS Cloud9で進めていたがローカルに変更
+### (更新停止)Rails Tutorial公式の勧めに従いAWS Cloud9で進めていたがローカルに変更
 
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
